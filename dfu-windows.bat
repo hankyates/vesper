@@ -1,0 +1,1 @@
+C:\Users\hanky\Desktop\dfu-util-0.9-win64\dfu-util.exe -a 0 -s 0x08000000:leave -D build/reverb.bin -d ,0483:df11
